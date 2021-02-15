@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "GL-Morris Regular";
+   src: url("fonts/GL-Morris Regular.woff") format("woff"), url("fonts/GL-Morris Regular.eot") format("embedded-opentype"), url("fonts/GL-Morris Regular.ttf") format("truetype"), url("fonts/GL-Morris Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

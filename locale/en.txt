@@ -16,6 +16,7 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Title
+map_B3F4FA42_A4DA_E082_41D2_59BFE3CB612A.label = image--001
 panorama_8BF284C9_8287_AB68_41D2_F31708B42B34.label = GS__6727
 panorama_8BF290DC_8287_6B68_41D4_7277E7FCC384.label = GS__6725
 panorama_8BF296E8_8287_7728_417F_949E0D81D3FF.label = GS__6724
@@ -88,3 +89,10 @@ panorama_8BFD3AC6_8283_7F58_4198_AE4DC3332C4B.label = GS__6687
 panorama_8BFDE691_8281_77F8_41E0_4A1256B8E298.label = GS__6751
 panorama_8BFDEFF0_8281_7538_41B2_60BCCB7217A7.label = GS__6752
 panorama_C126654F_868F_4802_41C5_B5561C4E65CC.label = GS__6686
+
+## Action
+
+### URL
+LinkBehaviour_A8D626A2_A514_7C68_41DF_9D9A6601C44E.source = https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_GB&gl=US&
+LinkBehaviour_AB5B9EAE_A514_8C78_41C7_61507A7772A7.source = https://www.rescuestation.org/#
+LinkBehaviour_AE265FC5_A51C_8C28_41D7_75ADD4B3DC6C.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664/#
