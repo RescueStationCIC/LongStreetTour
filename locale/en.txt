@@ -15,57 +15,73 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 
 ## Media
 
+### Description
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.description = Client presentation drawing by Edgar Wood
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.description = Original drawing of façade showing the art nouveau tracery. The \
+gateway was originally to have an art nouveau carving.
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.description = Early photo showing the flowering trees just planted. \
+The softly flowing walls have been rebuilt, unfortunately.
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.description = Signs of early modernism can be seen in the abstract blockwork sculpture formed from differently coloured stone blocks \
+which replaced the carving
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.description = A photograph published in the Architechural Review, as part of  'Modern English Churches' article.
+
 ### Title
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB.label = Walk Around
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.label = In-situ Drawing
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.label = Original Drawing
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.label = Courtyard
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.label = Influence of Modernism
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.label = The Architectural Review
 album_BF0B168A_A70D_FC38_41C4_40FC021F39BB.label = Photo Album EW boards final.pdf 9
 album_BF0B168A_A70D_FC38_41C4_40FC021F39BB_0.label = EW boards final.pdf 9
 map_B3F4FA42_A4DA_E082_41D2_59BFE3CB612A.label = image--001
-panorama_8BF284C9_8287_AB68_41D2_F31708B42B34.label = GS__6727
+panorama_8BF284C9_8287_AB68_41D2_F31708B42B34.label = Lectern
 panorama_8BF290DC_8287_6B68_41D4_7277E7FCC384.label = GS__6725
 panorama_8BF296E8_8287_7728_417F_949E0D81D3FF.label = GS__6724
 panorama_8BF2AC72_8287_FB38_41D5_4EF2D57D8E6A.label = GS__6731
-panorama_8BF2DAD6_8287_9F78_41BA_104BA06C74F4.label = GS__6726
-panorama_8BF2DEB1_8287_B738_41D3_EFC912A9773C.label = GS__6728
+panorama_8BF2DAD6_8287_9F78_41BA_104BA06C74F4.label = Nave
+panorama_8BF2DEB1_8287_B738_41D3_EFC912A9773C.label = Chancel
 panorama_8BF2E8A5_8287_9BD8_41D9_C1511C9900FC.label = GS__6729
 panorama_8BF30447_8287_AB58_41DC_168DC3315065.label = GS__6735
 panorama_8BF30885_8287_7BD8_41C0_BA9F043FBB68.label = GS__6737
-panorama_8BF32C72_8280_9B38_41CD_62D3168AA907.label = GS__6739
+panorama_8BF32C72_8280_9B38_41CD_62D3168AA907.label = Men's Vestibule
 panorama_8BF34667_8287_9758_41D5_1B8DFECA64B5.label = GS__6732
-panorama_8BF34F75_8280_B538_41D3_CAFE02524C29.label = GS__6741
+panorama_8BF34F75_8280_B538_41D3_CAFE02524C29.label = School Hall
 panorama_8BF3504B_8287_AB68_41C4_9AC3B4B61609.label = GS__6733
 panorama_8BF35289_8287_EFE8_41D7_562885CEDA6C.label = GS__6730
 panorama_8BF3727E_8287_6F28_41AF_C484E6265DB1.label = GS__6738
-panorama_8BF3CEA1_8287_97D8_41CD_E5E1A3797933.label = GS__6736
+panorama_8BF3CEA1_8287_97D8_41CD_E5E1A3797933.label = Organ
 panorama_8BF3EA53_8287_BF78_416D_76C130F8FCF2.label = GS__6734
 panorama_8BF515DC_8280_B568_41CE_C0ABBE854DB8.label = GS__6688
 panorama_8BF5732D_8280_AD28_41D2_8308DAE28A82.label = GS__6722
 panorama_8BF587EF_8280_9528_41DE_4772F9AE8B66.label = GS__6716
 panorama_8BF58F94_8280_95F8_41DE_BC334B597F5A.label = GS__6720
-panorama_8BF59BB8_8280_FD28_41C5_1ABD1FF4E782.label = GS__6718
-panorama_8BF59D04_8280_9AD8_41C3_4456754791E5.label = GS__6723
-panorama_8BF5B445_8280_AB58_41D2_75BC80E3C9FA.label = GS__6714
-panorama_8BF5C1E6_8280_ED58_41A0_988D10701425.label = GS__6717
+panorama_8BF59BB8_8280_FD28_41C5_1ABD1FF4E782.label = Pulpit
+panorama_8BF59D04_8280_9AD8_41C3_4456754791E5.label = Notes and Prints
+panorama_8BF5B445_8280_AB58_41D2_75BC80E3C9FA.label = Entrance: Chancel
+panorama_8BF5C1E6_8280_ED58_41A0_988D10701425.label = Lecture Room
 panorama_8BF5D958_8280_BD68_41AF_238164B91870.label = GS__6721
 panorama_8BF5F5A1_8280_95D8_41B5_874E614A0797.label = GS__6719
 panorama_8BF60199_8281_6DE8_41C7_DDDEE7DC3169.label = GS__6699
-panorama_8BF6026B_8281_EF28_41D7_483C2BD0FDCB.label = GS__6704
-panorama_8BF605E5_8281_9558_41DF_892D64F3EB94.label = GS__6706
-panorama_8BF60686_8281_77D8_41CD_2C601C1AC63B.label = GS__6711
-panorama_8BF6204A_8281_6B68_41DF_75D33AC91C82.label = GS__6712
-panorama_8BF627E5_8281_7558_41CA_2636FFF69515.label = GS__6698
+panorama_8BF6026B_8281_EF28_41D7_483C2BD0FDCB.label = Entrance: Men's Vestibule
+panorama_8BF605E5_8281_9558_41DF_892D64F3EB94.label = Courtyard
+panorama_8BF60686_8281_77D8_41CD_2C601C1AC63B.label = Entrance: Women's Vestibule
+panorama_8BF6204A_8281_6B68_41DF_75D33AC91C82.label = Lobby
+panorama_8BF627E5_8281_7558_41CA_2636FFF69515.label = Entrance: Porch
 panorama_8BF62E12_8280_96F8_41BF_D3AB858F6BD1.label = GS__6697
 panorama_8BF63565_8281_B558_41CB_422974B87789.label = GS__6701
 panorama_8BF638C9_8281_9B68_41DE_FAE8385FFC46.label = GS__6703
-panorama_8BF63A1E_8280_9EE8_41CB_1AC8FD37FAF6.label = GS__6713
+panorama_8BF63A1E_8280_9EE8_41CB_1AC8FD37FAF6.label = Entrance: Nave
 panorama_8BF63FC9_8281_9568_41D4_53AA0F679894.label = GS__6707
-panorama_8BF640D6_8280_AB78_41D3_20194A8B5FB5.label = GS__6694
+panorama_8BF640D6_8280_AB78_41D3_20194A8B5FB5.label = Entrance: Edgar Wood Rooms
 panorama_8BF64BA2_8281_9DD8_41D3_116760BD9951.label = GS__6700
 panorama_8BF64E2C_8280_B728_41D8_D3DF6A45D433.label = GS__6715
 panorama_8BF65C52_8281_FB78_41A6_BC36D14BC968.label = GS__6705
-panorama_8BF67F27_8281_B6D8_41D8_40DE5E933778.label = GS__6702
+panorama_8BF67F27_8281_B6D8_41D8_40DE5E933778.label = Entrance: Lobby
 panorama_8BF68359_8280_ED68_41C0_B238376F6C91.label = Entrance
 panorama_8BF69A89_8280_BFE8_41DC_321CCBD08956.label = GS__6695
 panorama_8BF69F9F_8280_B5E8_41CF_B8BF1ED6E5E3.label = GS__6689
-panorama_8BF6A713_8280_96F8_41D5_04495A9DF39A.label = GS__6693
+panorama_8BF6A713_8280_96F8_41D5_04495A9DF39A.label = Courtyard Steps
 panorama_8BF6BD2C_8280_F528_41C6_85F5C4EA61E8.label = GS__6692
 panorama_8BF6C971_8280_9D38_41DC_8A864A05FC0D.label = GS__6690
 panorama_8BF6CCE6_8281_9B58_41C4_63695CDC71B0.label = GS__6710
@@ -73,37 +89,43 @@ panorama_8BF6D96C_8281_BD28_41D0_DDC36208374D.label = GS__6708
 panorama_8BF6F321_8281_AED8_41D5_2A90152443D9.label = GS__6709
 panorama_8BF7F44D_8280_AB68_41AF_A22315445323.label = GS__6696
 panorama_8BFC06DE_8281_9768_41D0_0102576A5C5B.label = GS__6756
-panorama_8BFC1A58_8281_FF68_41D3_DE44F7411F18.label = GS__6758
+panorama_8BFC1A58_8281_FF68_41D3_DE44F7411F18.label = Gallery
 panorama_8BFC23AD_8281_AD28_41D3_9ABF1B52B652.label = GS__6754
-panorama_8BFC39C5_8281_9D58_41D0_835674D5D00F.label = GS__6753
-panorama_8BFC534E_8280_AD68_41D1_DC8DA6B66147.label = GS__6749
-panorama_8BFC5CDF_8280_9B68_41DE_BBADA601549E.label = GS__6750
+panorama_8BFC39C5_8281_9D58_41D0_835674D5D00F.label = Infants' Room
+panorama_8BFC534E_8280_AD68_41D1_DC8DA6B66147.label = Exhibition: 3
+panorama_8BFC5CDF_8280_9B68_41DE_BBADA601549E.label = Exhibition: 2
 panorama_8BFC5F91_8280_95F8_418D_EF13F53AD22A.label = GS__6746
 panorama_8BFC7D5E_8281_B568_41BD_7D9878E51411.label = GS__6755
-panorama_8BFC8912_8280_BAF8_41AC_25D57EC379FB.label = GS__6748
+panorama_8BFC8912_8280_BAF8_41AC_25D57EC379FB.label = Exhibition: 4
 panorama_8BFC8928_8280_9D28_41D1_3576F58F883F.label = GS__6742
-panorama_8BFC9611_8280_96F8_41D3_4B484B14983E.label = GS__6745
+panorama_8BFC9611_8280_96F8_41D3_4B484B14983E.label = Exhibition: 5
 panorama_8BFCA606_8280_B6D8_419D_0A7A3864EA4B.label = GS__6740
-panorama_8BFCAC5F_8280_FB68_41CD_861F1A7AD758.label = GS__6744
+panorama_8BFCAC5F_8280_FB68_41CD_861F1A7AD758.label = Women's Vestibule
 panorama_8BFCD060_8281_EB58_41D4_01E7D3C71B74.label = GS__6757
-panorama_8BFCD2CB_8280_EF68_41D4_08A64667B175.label = GS__6743
+panorama_8BFCD2CB_8280_EF68_41D4_08A64667B175.label = Classroom
 panorama_8BFD3AC6_8283_7F58_4198_AE4DC3332C4B.label = GS__6687
-panorama_8BFDE691_8281_77F8_41E0_4A1256B8E298.label = GS__6751
+panorama_8BFDE691_8281_77F8_41E0_4A1256B8E298.label = Exhibition: 1
 panorama_8BFDEFF0_8281_7538_41B2_60BCCB7217A7.label = GS__6752
 panorama_C126654F_868F_4802_41C5_B5561C4E65CC.label = Outside
-photo_B169D568_A50C_9CF8_41E3_C18AA53F09E5.label = edgarwoodsign
+photo_8AF41613_AB2B_159C_41D2_55A1CB3BBFE1.label = image--000
 
 ## Popup
 
 ### Body
-htmlText_B117CE7C_A537_8CD8_41C7_7E14E5DF1972.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Welcome to the Long Street Methodist Church of Middleton, Manchester.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We're touring this beautiful grade II* listed building, designed by celibrated architect, Edgar Wood, and built in 1899.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The building comprises a chapel and school, arranged around a courtyard.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Edgar Wood was one of the pioneers of the Arts and Crafts movement, and the building's features and furniture are heavily influenced by this and the later Art Nouveau style.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Exploring</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can walk around the building by tapping on the arrows where you find them. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Map icon at the bottom of the screen shows a plan view of the building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dotted around the building are also 'i' icons, which will give you more information, and movie camera icons, which will show you segements of a video tour we took, with the engaging and knowledgeable custodians of the building, Geoff and Christine.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We hope you enjoy your visit!</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Thankyou...</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The videos and website have been produced thanks to funding from the Heritage Emergency Fund, via Heritage Trust for the North West. You can find out more about them and how they rescue special places and their histories by visiting their <SPAN STYLE="color:#f3a22e;"><A HREF="https://heritagetrustnorthwest.org/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;">website</A></SPAN>.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_B117CE7C_A537_8CD8_41C7_7E14E5DF1972.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Welcome to the Long Street Methodist Church of Middleton, Manchester.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We're touring this beautiful grade II* listed building, designed by celibrated architect, Edgar Wood, and built in 1899.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The building comprises a chapel and school, arranged around a courtyard.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Edgar Wood was one of the pioneers of the Arts and Crafts movement, and the building's features and furniture are heavily influenced by this and the later Art Nouveau style.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Exploring</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can walk around the building by tapping on the arrows where you find them. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Map icon at the bottom of the screen shows a plan view of the building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dotted around the building are also 'i' icons, which will give you more information, and movie camera icons, which will show you segements of a video tour we took, with the engaging and knowledgeable custodians of the building, Geoff and Christine.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We hope you enjoy your visit!</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Thankyou...</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The videos and website have been produced thanks to funding from the Heritage Emergency Fund, via Heritage Trust for the North West. You can find out more about them and how they rescue special places and their histories by visiting their <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://heritagetrustnorthwest.org/" STYLE="text-decoration:none; color:inherit;">website</A></SPAN>.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_B5B01F5A_AB29_738C_41D1_E9BAE229D719.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ### Title
-window_BCE0169D_A51B_9C58_41E1_043753D5B664.title = Welcome
+window_B41BB0BE_AB2B_6E84_41E0_A1A7630C010B.title = Welcome
 
 ## Action
 
 ### URL
+LinkBehaviour_8106450D_AD3B_3784_41E3_FC86578E23EC.source = //www.youtube.com/embed/PBtmPPhuEFk?start=413&end=476
+LinkBehaviour_829AF539_AD29_178C_41DE_3A85B8601780.source = //www.youtube.com/embed/PBtmPPhuEFk?start=476&end=514
+LinkBehaviour_84D1E302_ACEB_137C_41B8_51B9C165419E.source = //www.youtube.com/embed/PBtmPPhuEFk?start=222&end=270
+LinkBehaviour_85360A74_ACD9_FD84_41C5_ADCD5E55B181.source = //www.youtube.com/embed/PBtmPPhuEFk?start=271&end=413
+LinkBehaviour_85F7E25C_ACF9_2D84_41D6_95F97172A1C9.source = //www.youtube.com/embed/PBtmPPhuEFk?start=130&end=222
 LinkBehaviour_A8D626A2_A514_7C68_41DF_9D9A6601C44E.source = https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_GB&gl=US&
 LinkBehaviour_AB5B9EAE_A514_8C78_41C7_61507A7772A7.source = https://www.rescuestation.org/#
 LinkBehaviour_AE265FC5_A51C_8C28_41D7_75ADD4B3DC6C.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664/#
