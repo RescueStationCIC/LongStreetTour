@@ -1,6 +1,7 @@
 {
- "name": "Long Street Chapel and School",
  "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +39,6 @@
    "sizes": "180x180"
   }
  ],
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "name": "Long Street Chapel and School"
 }
